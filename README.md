@@ -14,7 +14,7 @@ We are using Tumblr's API, which supports the OAuth 1.0a Protocol to allow us to
 
 Make sure to input the URL you are using to host your bot for the 'Application Website'.
 
-# Prompt Setup  
+# Prompt setup  
 
 ```git clone https://github.com/mzhang8/tumblr-bot.git```
 
